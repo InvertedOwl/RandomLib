@@ -1,0 +1,11 @@
+□(167.92857142857162, 247.2301587301588)
+Trigger | [random]
+Create   Var | [initseed,0]
+Add Vars | [initseed,seed]
+Create   Var | [mult,4135.1512]
+Multiply Vars | [initseed,mult]
+Mod Vars | [seed,initseed,max]
+Create   Var | [rnd,0]
+Add Vars | [rnd,seed]
+Floor Float | [rnd]
+Jump ToVar | [return_random]
