@@ -15,7 +15,7 @@ It creates an variable called rnd that contains your random number<br>
 ![image](https://user-images.githubusercontent.com/70726294/170286413-1c019a4a-09d5-483f-a1b5-ec80c17394d7.png)<br>
 <br>
 <br>
-random_return is set to "return"<br>
+return_random is set to "return"<br>
 seed is set to 154<br>
 max is set to 10<br>
 <br>
