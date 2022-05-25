@@ -10,7 +10,11 @@ Create a max variable to any positive integer over 1
 It creates an variable called rnd that contains your random number
 
 **Example**
+
+
 ![image](https://user-images.githubusercontent.com/70726294/170286413-1c019a4a-09d5-483f-a1b5-ec80c17394d7.png)
+
+
 random_return is set to "return"
 seed is set to 154
 max is set to 10
