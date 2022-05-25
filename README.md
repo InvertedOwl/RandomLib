@@ -20,3 +20,7 @@ seed is set to 154<br>
 max is set to 10<br>
 <br>
 If all is set right it should print out 8<br>
+<br>
+<br>
+**_Note_**
+_Calling this will change the seed variable so that it can be called again with different result. If you want to keep the seed the same you will have to reset after each time you call it_
