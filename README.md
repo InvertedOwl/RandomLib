@@ -1,6 +1,6 @@
 # RandomLib
 
-This is a library built for my language called Idiot Script (https://brohouse.dev/games/idiotscript/)
+This is a library built for my language called Idiot Script (https://is.invertedowl.com)
 
 **How to use**<br>
 Create a return variable to store the name of the return trigger<br>
